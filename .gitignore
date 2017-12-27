@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+*.swp
+torrent_indexer
+torrent_indexer.so
+torrent_indexer.dylib
+torrent_indexer.dll
+torrent_indexer.a
+torrent_indexer.lib
+torrent_indexer-test-*
+*.exe
+*.o
+*.obj
+*.lst

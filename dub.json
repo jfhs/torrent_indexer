@@ -1,0 +1,10 @@
+{
+	"name": "torrent_indexer",
+	"authors": [
+		"jfhs"
+	],
+	"description": "App to index torrents",
+	"copyright": "Copyright © 2017, jfhs",
+	"license": "public",
+	"libs": ["curl"]
+}
